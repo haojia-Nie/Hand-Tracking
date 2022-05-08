@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{A72F9BE4-C4F1-8967-FD50-7D61EDA30151}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/code/HandDetector.cs">
+    <Files>
+      <File FileName="Assets/WebCamOperation.cs" Line="246" Column="39" />
+      <File FileName="Assets/code/HandDetector.cs" Line="57" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HandTrack" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="code" expanded="True" />
+              <Node name="OpenCVForUnity" expanded="True">
+                <Node name="org" expanded="True">
+                  <Node name="opencv" expanded="True">
+                    <Node name="imgproc" expanded="True">
+                      <Node name="LineSegmentDetector.cs" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="781e98a2-cb38-4391-818a-151a75304407" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
